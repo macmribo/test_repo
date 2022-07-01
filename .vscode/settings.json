@@ -1,4 +1,8 @@
-{"workbench.settings.editor": "json",
+{
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "editor.minimap.enabled": false,
   "workbench.settings.useSplitJSON": true,
-  "workbench.settings.openDefaultSettings": true,
-}
+  "editor.formatOnSave": true,
+  "workbench.settings.useSplitJSON": true,
+  "workbench.settings.editor": "json"
+∏}

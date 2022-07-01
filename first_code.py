@@ -1,11 +1,9 @@
+import math
+import os
 import sys
 
-print(sys.version)
-print(sys.executable)
+import numpy as np
+import requests
 
-
-def greet(a_name):
-  greeting = 'Hello, {}'.format(a_name)
-  return greeting
-
-print(greet('World'))
+name = input('Your name?')
+print("Hello, ", name)
