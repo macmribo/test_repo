@@ -2,7 +2,7 @@
   "terminal.integrated.fontFamily": "MesloLGS NF",
   "editor.minimap.enabled": false,
   "workbench.settings.useSplitJSON": true,
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "workbench.settings.useSplitJSON": true,
   "workbench.settings.editor": "json"
 ∏}
